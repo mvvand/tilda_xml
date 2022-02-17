@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-02-17 18:25">
+	<shop>
+		<name>Женская одежда</name>
+		<company>KDress</company>
+		<url>http://kharkiv-dress.shop</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="186861837241">All</category>
+			<category id="222754864331">Повседневные платья</category>
+			<category id="939712604041">Коктейльные платья</category>
+			<category id="808775774271">Вечерние платья</category>
+			<category id="239150442151">Офисные платья</category>
+			<category id="453774321811">Сарафаны</category>
+			<category id="940258061191">Платья</category>
+			<category id="338809047941">ПЛАТЬЯ+</category>
+		</categories>
+		<offers>
+		<offer id="119952055191" group_id="647689997651">
+			<name>Платье Абаль б/р - Розовый - М</name>
+			<vendor>KDress</vendor>
+			<vendorCode>721010</vendorCode>
+			<description>
+<![CDATA[
+<p style="text-align: justify;">Состав:#nbsp;креп-дайвинг (100% полиэстер)</p> <p style="text-align: justify;">Растяжимость: средняя#nbsp;</p> <p style="text-align: justify;">Размерная сетка модели:#nbsp;XS S M L XL#nbsp;</p> <p style="text-align: justify;">Параметры:#nbsp;длина изделия: 85 см. Для всех размеров.#nbsp;</p> <p style="text-align: justify;">Рост модели на фото: 170 см. Обхваты: 86-65-89. На модели размер S.#nbsp;</p><p style="text-align: center;">Замеры изделия (см)#nbsp;</p> #nbsp; XS S M L XL 1. ОГ изделия 82 86 90 94 98 2. ОТ изделия#nbsp; 64 68 72 76 80 3. ОБ изделия#nbsp; 80 84 88 92 96 4. Длина изделия по спинке 85 85 85 85 85 5. Длина изделия по полочке 105 105 105 105 105 6. Длина бретели#nbsp; 38 38 38 38 38 7. Длина разреза#nbsp; 23 23 23 23 23 <p style="text-align: center;">#nbsp;</p>
+]]>
+			</description>
+			<picture>https://glem.com.ua/ii/images/357101d7054d4ee9ff81aa5e40065604.jpg</picture>
+			<url>http://kharkiv-dress.shop/tproduct/377799535-647689997651-plate-abal-br?editionuid=119952055191</url>
+			<price>390.00</price>
+			<currencyId>UAH</currencyId>
+			<categoryId>940258061191</categoryId>
+			<param name="Состав">креп-дайвинг (100% полиэстер)</param>
+			<param name="Цвет">Розовый</param>
+			<param name="Размер">М</param>
+		</offer>
+		<offer id="548297895291" group_id="647689997651">
+			<name>Платье Абаль б/р - Белый - L</name>
+			<vendor>KDress</vendor>
+			<vendorCode>721010-2</vendorCode>
+			<description>
+<![CDATA[
+<p style="text-align: justify;">Состав:#nbsp;креп-дайвинг (100% полиэстер)</p> <p style="text-align: justify;">Растяжимость: средняя#nbsp;</p> <p style="text-align: justify;">Размерная сетка модели:#nbsp;XS S M L XL#nbsp;</p> <p style="text-align: justify;">Параметры:#nbsp;длина изделия: 85 см. Для всех размеров.#nbsp;</p> <p style="text-align: justify;">Рост модели на фото: 170 см. Обхваты: 86-65-89. На модели размер S.#nbsp;</p><p style="text-align: center;">Замеры изделия (см)#nbsp;</p> #nbsp; XS S M L XL 1. ОГ изделия 82 86 90 94 98 2. ОТ изделия#nbsp; 64 68 72 76 80 3. ОБ изделия#nbsp; 80 84 88 92 96 4. Длина изделия по спинке 85 85 85 85 85 5. Длина изделия по полочке 105 105 105 105 105 6. Длина бретели#nbsp; 38 38 38 38 38 7. Длина разреза#nbsp; 23 23 23 23 23 <p style="text-align: center;">#nbsp;</p>
+]]>
+			</description>
+			<picture>https://glem.com.ua/ii/images/bbbd7589612b68e502310017180f8ba2.jpg</picture>
+			<url>http://kharkiv-dress.shop/tproduct/377799535-647689997651-plate-abal-br?editionuid=548297895291</url>
+			<price>390.00</price>
+			<currencyId>UAH</currencyId>
+			<categoryId>940258061191</categoryId>
+			<param name="Состав">креп-дайвинг (100% полиэстер)</param>
+			<param name="Цвет">Белый</param>
+			<param name="Размер">L</param>
+		</offer>
+		<offer id="594166596131" group_id="647689997651">
+			<name>Платье Абаль б/р - Белый - XL</name>
+			<vendor>KDress</vendor>
+			<vendorCode>721010-3</vendorCode>
+			<description>
+<![CDATA[
+<p style="text-align: justify;">Состав:#nbsp;креп-дайвинг (100% полиэстер)</p> <p style="text-align: justify;">Растяжимость: средняя#nbsp;</p> <p style="text-align: justify;">Размерная сетка модели:#nbsp;XS S M L XL#nbsp;</p> <p style="text-align: justify;">Параметры:#nbsp;длина изделия: 85 см. Для всех размеров.#nbsp;</p> <p style="text-align: justify;">Рост модели на фото: 170 см. Обхваты: 86-65-89. На модели размер S.#nbsp;</p><p style="text-align: center;">Замеры изделия (см)#nbsp;</p> #nbsp; XS S M L XL 1. ОГ изделия 82 86 90 94 98 2. ОТ изделия#nbsp; 64 68 72 76 80 3. ОБ изделия#nbsp; 80 84 88 92 96 4. Длина изделия по спинке 85 85 85 85 85 5. Длина изделия по полочке 105 105 105 105 105 6. Длина бретели#nbsp; 38 38 38 38 38 7. Длина разреза#nbsp; 23 23 23 23 23 <p style="text-align: center;">#nbsp;</p>
+]]>
+			</description>
+			<picture>https://glem.com.ua/ii/images/bbbd7589612b68e502310017180f8ba2.jpg</picture>
+			<url>http://kharkiv-dress.shop/tproduct/377799535-647689997651-plate-abal-br?editionuid=594166596131</url>
+			<price>390.00</price>
+			<currencyId>UAH</currencyId>
+			<categoryId>940258061191</categoryId>
+			<param name="Состав">креп-дайвинг (100% полиэстер)</param>
+			<param name="Цвет">Белый</param>
+			<param name="Размер">XL</param>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
